@@ -17,4 +17,4 @@ e-commerce recommendation system.
 Apache Mahout (for collaborative filtering and similarity computations)
 Maven (For managing dependencies like Apache Mahout)
 
-#OUTPUT:
+#OUTPUT:![Image](https://github.com/user-attachments/assets/f0b3e458-5055-4eee-ad3b-4130dcbdecfd)
